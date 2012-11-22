@@ -1,6 +1,7 @@
-CSIRO Big Data Workshop 2012.10.03. Example by Tomasz Bednarz / CSIRO 
+CSIRO Big Data Workshop 2012.10.03 - example by Tomasz Bednarz / CSIRO 
 
-Find closest toilets to ABC radio stations using:
+Find closest toilets to ABC radio stations!
+===========================================
 
 Apache Pig: http://pig.apache.org 
 Apache PiggyBank: https://cwiki.apache.org/PIG/piggybank.html
